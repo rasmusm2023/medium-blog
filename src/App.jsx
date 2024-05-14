@@ -9,6 +9,10 @@ function App() {
   return (
     <>
       <div>
+        <div class="bg-blue-500 text-white p-4">
+          Tailwind CSS is installed properly!
+        </div>
+
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
